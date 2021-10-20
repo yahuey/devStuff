@@ -23,7 +23,7 @@ for player, words in player_to_words.items():
          player_points += score_word(word)
          player_to_points[player] = player_points
 
-
+#comments
 
 
 print(player_to_points)
